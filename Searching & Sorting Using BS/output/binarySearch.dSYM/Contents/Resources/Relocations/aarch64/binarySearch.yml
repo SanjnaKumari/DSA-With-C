@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sanjna/Desktop/DSA WIth C++/Searching&Sorting/output/binarySearch'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DA0, symSize: 0xA0 }
+  - { offsetInCU: 0x2DCB, offset: 0x2DCB, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DA0, symSize: 0xA0 }
+  - { offsetInCU: 0x2E51, offset: 0x2E51, size: 0x8, addend: 0x0, symName: __ZN8Solution6searchEPiii, symObjAddr: 0xA0, symBinAddr: 0x100003E40, symSize: 0x10C }
+...
